@@ -1,1 +1,1 @@
-#This is my python project about a quiz competion
+# This is my python project about a quiz competion
